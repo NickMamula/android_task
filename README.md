@@ -11,8 +11,8 @@ If the login was correct and the "remember" checkmark was checked, the next time
 
 
  <p align="center">
-  <img src="src_readme/1.png" width="350" title="Скріншот сплеш екрана">
-  <img src="src_readme/2.png" width="350" alt="accessibility text">
+  <img src="src_readme/1.jpg" width="350" title="Скріншот сплеш екрана">
+  <img src="src_readme/2.jpg" width="350" alt="accessibility text">
 </p>
 
 
