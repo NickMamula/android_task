@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="18dp"
+    >
+
+
+    <TextView
+        android:padding="8dp"
+        android:id="@+id/text_name_task"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:textSize="18dp"
+        tools:text="Example item Task Name Example item Task Name " />
+
+    <TextView
+        android:id="@+id/text_of_task"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_name_task"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="7dp"
+        android:ellipsize="end"
+        android:gravity="left"
+        android:maxLines="1"
+        android:textSize="16dp"
+        tools:text="Example item Task Text Example item Task TextExample item Task Text" />
+
+    <TextView
+        android:id="@+id/date_created_task"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_of_task"
+        android:textSize="14dp"
+        tools:text="dd.MM.yyyy" />
+
+
+</RelativeLayout>
