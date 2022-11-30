@@ -15,11 +15,6 @@ If the login was correct and the "remember" checkmark was checked, the next time
   <img src="src_readme/2.png" width="350" alt="accessibility text">
 </p>
 
- <p align="center">
-  <img src="src_for_redme/login.png" width="350" title="Скріншот сплеш екрана">
-  <img src="src_for_redme/main.png" width="350" alt="accessibility text">
-</p>
-
 
 
 
